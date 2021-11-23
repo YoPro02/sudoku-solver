@@ -6,6 +6,8 @@ and runs an efficient sudoku solver to determine the answer. It then displays th
 
 Demonstration can be found in the "output.gif" file in repository.
 
+<img src="output.gif"> 
+
 Relevant Packages:
 
 - `opencv-python`: 4.3.0.36
